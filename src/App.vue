@@ -3,7 +3,7 @@ import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div>首页内容</div>
+  <div class="text-amber-200 text-2xl w-full h-[100vh] flex justify-center items-center">首页内容</div>
   <RouterView />
 </template>
 
